@@ -1,6 +1,6 @@
 function FunInputButton() {
-    prompt("FUN INPUT!")
+    prompt("SPAß EINGABE!")
 }
 function FunButton() {
-    alert("FUN!")
+    alert("SPAß!")
 }

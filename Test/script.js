@@ -1,4 +1,4 @@
 function HelloWorldButtonClick() {
-    var Name = prompt("Name: ")
+    var Name = prompt("Dein name: ")
     alert("Hallo " + Name + "!")
 }

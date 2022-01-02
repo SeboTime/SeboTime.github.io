@@ -1,0 +1,1 @@
+alert("Diese Webseite ist von @SeboTime");

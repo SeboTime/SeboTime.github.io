@@ -1,6 +1,6 @@
 //Links
 function InfoButton() {
-    open("Info/");
+    open("Info/index.html");
 }
 
 //Other Links

@@ -2,11 +2,12 @@
 
 .light {
     font-family: Arial;
+    text-align: center;
 }
 
 .dark {
     background-color: black;
     color: white;
     font-family: 'Press Start 2P', cursive;
-    translate: inherit;
+    text-align: center;
 }

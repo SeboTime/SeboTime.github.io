@@ -2,6 +2,10 @@
 function InfoButton() {
     open("Info/");
 }
+function MusicButton() {
+    open("Music/");
+}
+
 
 //Other Links
 function DiscordButton() {

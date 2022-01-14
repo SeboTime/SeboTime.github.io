@@ -1,13 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 .light {
+    background-image: url(Main_Images/LightBackground.png);
     font-family: Arial;
     text-align: center;
 }
 
 .dark {
-    background-color: black;
+    background-image: url(Main_Images/DarkBackground.png);
+    /* background-color: black; */
     color: white;
     font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+.max {
+    font-family: Arial;
     text-align: center;
 }

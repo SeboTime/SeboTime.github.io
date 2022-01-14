@@ -1,0 +1,9 @@
+.light {
+    font-family: Arial;
+}
+
+.dark {
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}

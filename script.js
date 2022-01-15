@@ -1,1 +1,3 @@
-alert("Diese Webseite ist von @SeboTime");
+function InfoButton() {
+    alert("This website is scripted by @SeboTime.")
+}

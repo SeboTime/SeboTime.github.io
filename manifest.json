@@ -1,0 +1,9 @@
+{
+  "name": "SeboTimeApp",
+  "short_name": "SeboTimeApp",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/"
+}

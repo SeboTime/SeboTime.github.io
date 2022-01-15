@@ -16,7 +16,8 @@
 }
 
 .max {
-    background-color: rgb(54, 57, 63);
+    background-image: url(Main_Images/MaxBackground.png);
+    /*background-color: rgb(54, 57, 63);*/
     color: white;
     font-family: 'Teko', sans-serif;
     font-size: x-large;

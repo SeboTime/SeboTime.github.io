@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
 
 .light {
     background-image: url(Main_Images/LightBackground.png);
@@ -8,13 +9,15 @@
 
 .dark {
     background-image: url(Main_Images/DarkBackground.png);
-    /* background-color: black; */
     color: white;
     font-family: 'Press Start 2P', cursive;
     text-align: center;
 }
 
 .max {
-    font-family: Arial;
+    background-color: rgb(54, 57, 63);
+    color: white;
+    font-family: 'Teko', sans-serif;
+    font-size: x-large;
     text-align: center;
 }

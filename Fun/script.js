@@ -1,6 +1,7 @@
-function FunInputButton() {
+function FunInputLink() {
     prompt("FUN INPUT!")
 }
-function FunButton() {
-    alert("FUN BUTTON!")
+
+function FunLink() {
+    alert("FUN LINK!")
 }

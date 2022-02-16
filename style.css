@@ -2,13 +2,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
 
 .light {
-    background-image: url(Main_Images/LightBackground.png);
+    background-color: white;
     font-family: Arial;
+    color: black;
     text-align: center;
 }
 
 .dark {
-    background-color: rgb(54, 57, 63);
+    background-color: rgb(50, 50, 50);
     font-family: 'Sigmar One', cursive;
     font-size: x-large;
     color: white;

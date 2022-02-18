@@ -1,9 +1,0 @@
-{
-  "name": "SeboGame",
-  "short_name": "SeboGame",
-  "theme_color": "#000000",
-  "background_color": "#000000",
-  "display": "fullscreen",
-  "scope": "/",
-  "start_url": "/"
-}

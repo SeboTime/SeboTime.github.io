@@ -17,7 +17,7 @@ runOnStartup(async runtime =>
 		
 	} else {
 		alert("Your're not a Admin!")
-		close()
+		window.close()
 	}
 });
 

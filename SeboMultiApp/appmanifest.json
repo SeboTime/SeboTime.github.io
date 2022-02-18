@@ -1,6 +1,6 @@
 {
-	"name": "SeboGame",
-	"short_name": "SeboGame",
+	"name": "SeboMultiApp",
+	"short_name": "SeboMultiApp",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",

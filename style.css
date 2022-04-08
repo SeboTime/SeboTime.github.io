@@ -1,18 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
 
-.light {
-    background-color: white;
-    font-family: Arial;
-    color: black;
-    text-align: center;
-}
-
-.dark {
+body {
     background-color: rgb(50, 50, 50);
     font-family: 'Righteous', cursive;
     font-size: x-large;
     color: white;
+    text-align: center;
+}
+
+.light {
+    background-color: white;
+    font-family: Arial;
+    color: black;
     text-align: center;
 }
 
